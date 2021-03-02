@@ -32,7 +32,7 @@
  pacstrap /mnt base linux linux-firmware
  genfstab -U mnt >> /mnt/etc/fstab
  arch-chroot /mnt
- ln -Sf /usr/share/zoneinfo/Asia/Manila /etc/localtime
+ ln -sf /usr/share/zoneinfo/Asia/Manila /etc/localtime
  hwclock --syntohc
  locale-gen
  echo "Lang=en_US.UTF-8" /etc/locale.conf
