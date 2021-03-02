@@ -7,7 +7,12 @@ echo "you are in the the $(pwd)"
 sudo pacman -S transmissiong-gtk
 sudo pacman -S base-devel
 sudo pacman -S git
+sudo pacman -S wget
 sudo git clone https://aur.archlinux.ort/yay.git
 makepkg -si
 yay -S brive-bin
-sudo 
+sudo pacman -S obs-studio
+sudo pacman -S  terminator
+sudo pacman -S libreoffice
+sudo pacman -S 
+echo "eto na lahat putek"
