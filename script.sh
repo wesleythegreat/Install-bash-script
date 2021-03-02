@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-pacman -S neofetch
+sudo pacman -S neofetch
 neofetch
 echo "your a dumb motherfucker"
