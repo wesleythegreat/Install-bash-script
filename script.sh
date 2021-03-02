@@ -14,5 +14,13 @@ yay -S brive-bin
 sudo pacman -S obs-studio
 sudo pacman -S  terminator
 sudo pacman -S libreoffice
-sudo pacman -S 
+sudo pacman -S cmatrix
 echo "eto na lahat putek"
+sudo pacman -S steam
+sudo pacman -S xf86-video-amdgpu
+sudo pacman -S amdvlk
+sudo pacman -S libva-mesa-drive
+sudo pacman -S lib32-libva-mesa-driver
+sudo pacman -S mesa-vdpau
+sudo pacman -S lib32-mesa-vdpau
+cmatrix
