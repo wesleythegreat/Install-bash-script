@@ -27,7 +27,7 @@ sudo pacman -S lib32-mesa-vdpau
 cmatrix
 sudo pacman -S gimp
 echo "yay"
-#sudo pacman -S 
+yay github-desktop 
 #sudo pacman -S
 #sudo pacman -S 
 #sudo pacman -S
