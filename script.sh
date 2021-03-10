@@ -24,12 +24,11 @@ sudo pacman -S libva-mesa-drive
 sudo pacman -S lib32-libva-mesa-driver
 sudo pacman -S mesa-vdpau
 sudo pacman -S lib32-mesa-vdpau
-cmatrix
 sudo pacman -S gimp
 echo "yay"
 yay github-desktop 
-#sudo pacman -S
-#sudo pacman -S 
-#sudo pacman -S
+yay joplin
+yay ao
+sudo pacman -S discord 
 #sudo pacman -S
 #sudo pacman -S
