@@ -32,3 +32,4 @@ yay ao
 sudo pacman -S discord 
 #sudo pacman -S
 #sudo pacman -S
+git clone https://github.com/ransome1/sleek.git
