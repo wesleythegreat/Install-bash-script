@@ -5,9 +5,11 @@ echo 'your a dumb motherfucker'
 echo "you are in the the $(pwd)"
 # installation
 sudo pacman -S transmissiong-gtk
-sudo pacman -S base-devel
+echo enter
 sudo pacman -S git
+echo enter
 sudo pacman -S vim
+echo enter
 sudo pacman -S wget
 sudo git clone https://aur.archlinux.ort/yay.git
 makepkg -si
