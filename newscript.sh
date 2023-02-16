@@ -6,3 +6,4 @@ sudo git clone https://aur.archlinux.org/yay.git
 sudo chown wes:wes yay/
 cd yay
 makepkg -si
+echo "All Good!"
