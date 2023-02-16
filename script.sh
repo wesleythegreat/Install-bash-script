@@ -11,7 +11,7 @@ echo enter
 sudo pacman -S vim
 echo enter
 sudo pacman -S wget
-sudo git clone https://aur.archlinux.ort/yay.git
+    sudo git clone https://aur.archlinux.ort/yay.git
 makepkg -si
 yay -S brive-bin
 sudo pacman -S obs-studio
